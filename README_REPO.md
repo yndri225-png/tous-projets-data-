@@ -122,9 +122,3 @@ Ce portfolio a pour but de renforcer mes compétences dans :
 - Création de tableaux de bord interactifs
 
 ---
-
-# 📬 Contact
-
-**NDRI Yves Allan Roland**
-
-GitHub : https://github.com/VOTRE-PROFIL
